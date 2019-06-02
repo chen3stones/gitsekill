@@ -1,0 +1,3 @@
+def abs():
+    aaa = ''
+    bbb = ''
